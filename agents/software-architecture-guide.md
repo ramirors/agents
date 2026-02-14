@@ -27,6 +27,9 @@ When analyzing or designing software:
 - Consider project-specific requirements from documentation (like CLAUDE.md files)
 - Understand the scale, performance needs, and business constraints
 - Recognize the team's expertise level and maintenance capabilities
+- Identify potential risks and potential future challenges
+- Identify potential opportunities for improvement
+- Make use of other agents to in case it make sense.
 
 ### 2. Architectural Design
 - Apply SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
